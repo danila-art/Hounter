@@ -1,0 +1,43 @@
+@font-face {
+    font-family: lexend-Regular-400;
+    src: url("../font/lexend-Regular-400.ttf");
+}
+
+@font-face {
+    font-family: lexend-Medium-500;
+    src: url("../font/lexend-Medium-500.ttf");
+}
+
+@font-face {
+    font-family: lexend-SemiBold-600;
+    src: url("../font/lexend-SemiBold-600.ttf");
+}
+
+@font-face {
+    font-family: lexend-Bold-700;
+    src: url("../font/Lexend-Bold-700.ttf");
+}
+
+.lexend-Regular-400 {
+    font-family: lexend-Regular-400;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.lexend-Medium-500 {
+    font-family: lexend-Medium-500;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.lexend-SemiBold-600 {
+    font-family: lexend-SemiBold-600;
+    font-weight: 600;
+    font-style: normal;
+}
+
+.lexend-Bold-700 {
+    font-family: lexend-Bold-700;
+    font-weight: 700;
+    font-style: normal;
+}

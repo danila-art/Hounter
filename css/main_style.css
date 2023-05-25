@@ -1,0 +1,10 @@
+/* Стили 1 Секции */
+@import url("section-1_stylesheet.css");
+
+body{
+    background-color: #F0FAFD;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: none;
+}
